@@ -1,0 +1,6 @@
+{
+  "name": "CalcRick",
+  "description": "Ultimate professional calculation platform with deterministic math, scientific, financial, engineering, unit conversion engines, step-by-step explanations, and interactive learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
